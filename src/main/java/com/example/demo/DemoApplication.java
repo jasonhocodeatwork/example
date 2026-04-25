@@ -7,11 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		// batch 2-2
-		// batch 2-1
-		// batch 1
-		// batch 2-2
-		// batch 2-1
 		// new change 6
 		// new change 5
 		// new change 4
