@@ -1,2 +1,0 @@
-INSERT INTO PRODUCT (NAME, DESCRIPTION, PRICE) VALUES ('Keyboard', 'Mechanical keyboard', 79.99);
-INSERT INTO PRODUCT (NAME, DESCRIPTION, PRICE) VALUES ('Mouse', 'Wireless mouse', 29.99);
